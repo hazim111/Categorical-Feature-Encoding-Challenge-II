@@ -1,0 +1,1 @@
+python /home/hazim/Desktop/Categorical-Feature-Encoding-Challenge-II/src/predict.py --model rf
